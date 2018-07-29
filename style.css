@@ -1,3 +1,22 @@
+* { 
+    border: 1px solid black; 
+}
+
 title{
     font-family: 'Courier New', Courier, monospace;
+}
+
+.lead{
+    font-family: Georgia,Times New Roman,Times,serif;
+}
+
+.jumbotron-fluid {
+    background: aliceblue;
+}   
+.card-deck{
+    margin: 5%;
+}
+
+.categories {
+    margin: 5%;
 }
